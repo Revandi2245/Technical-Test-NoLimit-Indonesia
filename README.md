@@ -1,6 +1,6 @@
 # Technical-Test-NoLimit-Indonesia
 
-# Bisnis.com Crawler (Standard & Backtrack Mode)
+## Bisnis.com Crawler (Standard & Backtrack Mode)
 
 Proyek ini adalah implementasi crawler untuk situs [bisnis.com](https://www.bisnis.com), dengan dua mode utama:
 
