@@ -1,4 +1,8 @@
-# --- file: backtrack.py ---
+# Pengembang: Revandi Faudiamar Putra Sitepu
+# Tanggal: 2025-07-01
+
+# Deskripsi: Kode ini digunakan untuk mengambil artikel dari situs berita Bisnis.com
+# dengan menggunakan Selenium. Kode ini akan mengambil artikel berdasarkan rentang tanggal yang diberikan
 import sys
 from datetime import datetime, timedelta
 from selenium.webdriver.common.by import By

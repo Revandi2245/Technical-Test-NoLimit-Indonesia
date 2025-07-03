@@ -1,3 +1,7 @@
+# Pengembang: Revandi Faudiamar Putra Sitepu
+# Tanggal: 2025-07-01
+
+# Deskripsi: Kode ini digunakan untuk mengambil artikel dari situs berita dengan Selenium.
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager

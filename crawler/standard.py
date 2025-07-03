@@ -1,3 +1,8 @@
+# Pengembang: Revandi Faudiamar Putra Sitepu
+# Tanggal: 2025-07-02
+
+# Deskripsi: Kode ini digunakan untuk mengambil artikel terbaru dari situs berita Bisnis.com
+# dengan menggunakan Selenium. Kode ini akan mengambil artikel terbaru secara berkelanjutan sesuai dengan konfigurasi pada env.
 import argparse
 import time
 import hashlib
